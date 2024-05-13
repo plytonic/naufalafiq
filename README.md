@@ -1,7 +1,6 @@
 ### Hi I'm Naufal Afiq! 👋<br>
 ### 🧑‍💻 About Me
-- I am a student who is currently pursuing cybersecurity for 2 years
-- Currently having no experience or internship
+- I am a third year student currently studying cybersecurity
 - Working on ethical hacking and network security skills
 
 ### 🔭 Projects
